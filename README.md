@@ -1,3 +1,3 @@
 # calculator
 
-This is siple app.
+This is simple app.
